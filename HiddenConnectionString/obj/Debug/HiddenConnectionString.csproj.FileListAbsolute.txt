@@ -1,0 +1,7 @@
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\bin\Debug\HiddenConnectionString.dll
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\bin\Debug\HiddenConnectionString.tlb
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\bin\Debug\HiddenConnectionString.pdb
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\obj\Debug\Interop.ADODB.dll
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\obj\Debug\HiddenConnectionString.csproj.ResolveComReference.cache
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\obj\Debug\HiddenConnectionString.dll
+C:\Users\bw55336\documents\visual studio 2013\Projects\HiddenConnectionString\HiddenConnectionString\obj\Debug\HiddenConnectionString.pdb
