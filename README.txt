@@ -1,6 +1,6 @@
 Why I Used This:
 I needed this little file for a project while working with our Lead Production 
-scheudler. We leveraged an Excel spreadsheet she was already using to connect
+scheduler. We leveraged an Excel spreadsheet she was already using to connect
 to SQl, pull down job status data, and populate which process the scheduled
 jobs were in. This job status data came from the Job Tracking System I 
 developed. 
